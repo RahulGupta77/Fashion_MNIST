@@ -1,5 +1,5 @@
 
-# Fashion MNIST 
+## Fashion MNIST 
 
 ## Training a neural network using tensorflow on Fashion MNIST dataset
 
